@@ -1,3 +1,9 @@
+/*
+ * Copyright Xiangyi Zhang 2021
+ * The code may be used for academic, non-commercial purposes only.
+ * Please contact me at xiangyi.zhang@polymtl.ca for questions
+ * If you have improvements, please contact me!
+ */
 #pragma once
 #include <vector>
 
